@@ -10,8 +10,7 @@ function App() {
           Jes nyt hän se pelittää
         </p>
         <p>Lisäys jutska testataan toimiix livenä häh???</p>
-        <p>täähän on muute harkkahaarassa tehty muutos</p>
-        <p>Ylimääränen muutos harkassa v10 tää menöö tuotantoon</p>
+        <p>tuotannossa oleva haara on v10</p>
         <a
           className="App-link"
           href="https://reactjs.org"
