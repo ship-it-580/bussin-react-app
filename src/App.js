@@ -10,7 +10,7 @@ function App() {
           Jes nyt hän se pelittää
         </p>
         <p>Lisäys jutska testataan toimiix livenä häh???</p>
-        <p>tuotannossa oleva haara on v10</p>
+        <p>tuotannossa oleva haara on v10.0.1.1</p>
         <a
           className="App-link"
           href="https://reactjs.org"
